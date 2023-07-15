@@ -1,0 +1,58 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+nav{
+    width: 100%;
+    background-color: black;
+    height:60px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 300;
+    padding-top: 30px;
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+    padding-left: 38px;
+    
+}
+section{
+    padding-left: 38px;
+}
+section h1{
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    
+}
+section p{
+    font-family: 'Inter', sans-serif;
+    font-weight: 300;
+}
+button{
+    background-color: black;
+    font-family: 'Inter', sans-serif;
+    font-weight: 300;
+}
+button a{
+    padding-left: 5px;
+}
+section li{
+    font-family: 'Inter', sans-serif;
+    font-weight: 300;
+}
+ table,tr,td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    font-family: 'Montserrat' , sans-serif;;
+}
+tfoot{
+    background-color: black;
+    color: white;
+}
